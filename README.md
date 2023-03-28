@@ -1,4 +1,4 @@
-# ISS En temps réel
+# ISS en temps réel
 Programme conçu en python pour savoir où est actuellement l'ISS.
 
 
